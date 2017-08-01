@@ -1,12 +1,12 @@
-# _{my-first-webpage}_
+# _my-first-webpage_
 
-#### _{My First Web Page}, {07/31/2017}_
+#### _My First Web Page, 07/31/2017_
 
-#### By _**{Debbie Michel and Elrey Belmonti}**_
+#### By _**Debbie Michel and Elrey Belmonti**_
 
 ## Description
 
-_{This is a very simple website with some guidance information on what we will learn at Epicodus.  This site has a picture of a sugar glider because they are so cute. There is a link to my favorite things website and a link to so you can check out Epicodus school. }_
+_This is a very simple website with some guidance information on what we will learn at Epicodus.  This site has a picture of a sugar glider because they are so cute. There is a link to my favorite things website and a link to so you can check out Epicodus school. _
 
 ## Setup/Installation Requirements
 
@@ -16,22 +16,22 @@ _{This is a very simple website with some guidance information on what we will l
 * _Open the file my-first webpage.html_
 * _Start adding code_
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+_Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?_
 
 ## Known Bugs
 
-_{There are no known bugs at this time }_
+_There are no known bugs at this time _
 
 ## Support and contact details
 
-_{You can contact me with any issues, ideas or concerns by emailing me at debbiemichel1633@gmail.com}_
+_You can contact me with any issues, ideas or concerns by emailing me at debbiemichel1633@gmail.com_
 
 ## Technologies Used
 
-_{This website was created using html code only}_
+_This website was created using html code only_
 
 ### License
 
-*{License under MIT}*
+*License under MIT*
 
-Copyright (c) 2016 **_{Debbie Michel and Elrey Belmonti}_**
+Copyright (c) 2016 **_Debbie Michel and Elrey Belmonti_**
