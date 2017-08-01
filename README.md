@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a very simple website with some guidance information on what we will learn at Epicodus.  This site has a picture of a sugar glider because they are so cute. There is a link to my favorite things website and a link to so you can check out Epicodus school. _
+_This is a very simple website with some guidance information on what we will learn at Epicodus.  This site has a picture of a sugar glider because they are so cute. There is a link to my favorite things website and a link to so you can check out Epicodus school._
 
 ## Setup/Installation Requirements
 
@@ -20,7 +20,7 @@ _Leave nothing to chance! You want it to be easy for potential users, employers 
 
 ## Known Bugs
 
-_There are no known bugs at this time _
+_There are no known bugs at this time_
 
 ## Support and contact details
 
